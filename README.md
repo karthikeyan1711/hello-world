@@ -1,2 +1,4 @@
-# hello-world This Is New File
-Just another repository
+<?php
+
+echo "Hello World";
+?>
